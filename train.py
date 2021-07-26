@@ -26,9 +26,9 @@ logger = logging.getLogger(__name__)
 import dvc.api
 
 path = 'data/data.csv'
-# repo ='https://github.com/heavye/abtest-mlops'
+# repo ='https://github.com/ItsDebol/Abtest_MLops'
 repo ='C:/Users/Joseph/Desktop/week2/Abtest_MLops'
-version = 'v4'
+version = 'v3'
 
 data_url = dvc.api.get_url(
     path = path,

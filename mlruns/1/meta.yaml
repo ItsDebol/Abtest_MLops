@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Joseph/Desktop/week2/Abtest_MLops/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: MLabTest
