@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joseph/Desktop/week2/Abtest_MLops/mlruns/1/6282018d91ea408e931c7cda7115debb/artifacts
+end_time: 1627258843314
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6282018d91ea408e931c7cda7115debb
+run_uuid: 6282018d91ea408e931c7cda7115debb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627258843125
+status: 3
+tags: []
+user_id: Joseph
